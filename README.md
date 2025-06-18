@@ -3,13 +3,13 @@
 
 # 🛍️ AI Shopping Assistant
 
-**An intelligent, conversational shopping assistant powered by the Grok AI model and Model Context Protocol (MCP) for smart web-based product discovery and decision-making.**
+**An intelligent, conversational shopping assistant powered by the Groq AI model and Model Context Protocol (MCP) for smart web-based product discovery and decision-making.**
 
 ---
 
 ## ✨ Overview
 
-The **AI Shopping Assistant** is an interactive, AI-powered chatbot that helps users make **smarter shopping decisions**. Backed by **xAI’s Grok LLM** and the **Model Context Protocol (MCP)**, it can:
+The **AI Shopping Assistant** is an interactive, AI-powered chatbot that helps users make **smarter shopping decisions**. Backed by **xAI’s Groq LLM** and the **Model Context Protocol (MCP)**, it can:
 
 * 🧠 Understand natural language queries
 * 🔎 Conduct real-time searches on shopping platforms
