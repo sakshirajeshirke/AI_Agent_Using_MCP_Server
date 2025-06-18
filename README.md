@@ -1,4 +1,3 @@
-Here's a more polished and **visually appealing `README.md`** for your **AI Shopping Assistant** project. It features improved formatting, consistent structure, badges (if you'd like to add later), emoji enhancements, and a clear section hierarchy:
 
 ---
 
