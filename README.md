@@ -212,7 +212,13 @@ To contribute:
    ```
 
 ---
-
+## Images:
+1:"D:\mcp\app1.jpg"
+2:"D:\mcp\app2.jpg"
+3:"D:\mcp\app3.jpg"
+4:"D:\mcp\shop1.jpg"
+5:"D:\mcp\shop2.jpg"
+6:"D:\mcp\shop3.jpg"
 ---
 
 > 🧠 **AI + Shopping = Smarter Choices**
