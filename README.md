@@ -213,12 +213,12 @@ To contribute:
 
 ---
 ## Images:
-1:"D:\mcp\app1.jpg"
-2:"D:\mcp\app2.jpg"
-3:"D:\mcp\app3.jpg"
-4:"D:\mcp\shop1.jpg"
-5:"D:\mcp\shop2.jpg"
-6:"D:\mcp\shop3.jpg"
+1: ![app1](https://github.com/user-attachments/assets/ddf77c02-75ef-4c2f-b944-32f41bf023b5)
+2: ![app2](https://github.com/user-attachments/assets/fa0b4bbf-dff9-4297-a42b-6b93f252dc15)
+3: ![app3](https://github.com/user-attachments/assets/7a64e620-b74a-4ab0-b7d5-70af143b8167)
+4: ![shop1](https://github.com/user-attachments/assets/fbacc811-b4b7-4608-92bb-bf618af4c368)
+5: ![shop2](https://github.com/user-attachments/assets/aae695a2-4db9-4589-a02e-f498bd7856ea)
+6: ![shop3](https://github.com/user-attachments/assets/b9007dd8-fb47-41b0-b0e4-de91f7ced1b3)
 ---
 
 > 🧠 **AI + Shopping = Smarter Choices**
